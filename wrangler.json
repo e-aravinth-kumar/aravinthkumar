@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "aravinthkumar",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "778acb3b-9db5-4bd5-b30a-0518272ead69",
+			"database_name": "Aravinthkumar-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
